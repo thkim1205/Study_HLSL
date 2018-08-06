@@ -1,0 +1,1192 @@
+﻿  DXUT.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxut.cpp(654): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxut.cpp(655): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxut.cpp(1872): error C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(387): note: see declaration of 'GetVersionExW'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxut.cpp(4247): error C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(387): note: see declaration of 'GetVersionExW'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxut.cpp(5346): error C2440: 'initializing': cannot convert from 'const wchar_t *' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxut.cpp(5346): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  DXUTDevice11.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  DXUTDevice9.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  DXUTmisc.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(213): error C2440: '=': cannot convert from 'const wchar_t [15]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(213): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(215): error C2440: '=': cannot convert from 'const wchar_t [14]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(215): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(217): error C2440: '=': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(217): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(219): error C2440: '=': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(219): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(221): error C2440: '=': cannot convert from 'const wchar_t [14]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(221): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(223): error C2440: '=': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(223): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(225): error C2440: '=': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(225): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(227): error C2440: '=': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(227): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(229): error C2440: '=': cannot convert from 'const wchar_t [14]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(229): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(231): error C2440: '=': cannot convert from 'const wchar_t [10]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(231): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(233): error C2440: '=': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(233): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(235): error C2440: '=': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(235): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(237): error C2440: '=': cannot convert from 'const wchar_t [19]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(237): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(239): error C2440: '=': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(239): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(241): error C2440: '=': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(241): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(243): error C2440: '=': cannot convert from 'const wchar_t [14]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(243): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(245): error C2440: '=': cannot convert from 'const wchar_t [19]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(245): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(247): error C2440: '=': cannot convert from 'const wchar_t [20]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(247): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(249): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(249): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(251): error C2440: '=': cannot convert from 'const wchar_t [10]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(251): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(253): error C2440: '=': cannot convert from 'const wchar_t [10]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(253): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(255): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(255): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(257): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(257): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(259): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(259): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(261): error C2440: '=': cannot convert from 'const wchar_t [14]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(261): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(263): error C2440: '=': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(263): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(265): error C2440: '=': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(265): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(267): error C2440: '=': cannot convert from 'const wchar_t [14]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(267): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(269): error C2440: '=': cannot convert from 'const wchar_t [19]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(269): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(271): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(271): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(273): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(273): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(275): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(275): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(277): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(277): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(279): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(279): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(281): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(281): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(283): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(283): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(285): error C2440: '=': cannot convert from 'const wchar_t [20]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(285): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(287): error C2440: '=': cannot convert from 'const wchar_t [11]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(287): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(289): error C2440: '=': cannot convert from 'const wchar_t [13]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(289): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(291): error C2440: '=': cannot convert from 'const wchar_t [13]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(291): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(293): error C2440: '=': cannot convert from 'const wchar_t [13]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(293): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(295): error C2440: '=': cannot convert from 'const wchar_t [15]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(295): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(297): error C2440: '=': cannot convert from 'const wchar_t [11]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(297): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(299): error C2440: '=': cannot convert from 'const wchar_t [11]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(299): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(301): error C2440: '=': cannot convert from 'const wchar_t [18]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(301): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(303): error C2440: '=': cannot convert from 'const wchar_t [15]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(303): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(305): error C2440: '=': cannot convert from 'const wchar_t [15]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(305): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(307): error C2440: '=': cannot convert from 'const wchar_t [20]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(307): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(309): error C2440: '=': cannot convert from 'const wchar_t [20]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(309): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(311): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(311): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(313): error C2440: '=': cannot convert from 'const wchar_t [15]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(313): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(315): error C2440: '=': cannot convert from 'const wchar_t [21]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(315): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(317): error C2440: '=': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(317): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(319): error C2440: '=': cannot convert from 'const wchar_t [15]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(319): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(321): error C2440: '=': cannot convert from 'const wchar_t [21]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(321): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(323): error C2440: '=': cannot convert from 'const wchar_t [14]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(323): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(325): error C2440: '=': cannot convert from 'const wchar_t [15]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(325): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(343): error C2440: '=': cannot convert from 'const wchar_t [34]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(343): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(345): error C2440: '=': cannot convert from 'const wchar_t [31]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(345): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(347): error C2440: '=': cannot convert from 'const wchar_t [30]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(347): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(349): error C2440: '=': cannot convert from 'const wchar_t [30]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(349): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(351): error C2440: '=': cannot convert from 'const wchar_t [31]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(351): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(353): error C2440: '=': cannot convert from 'const wchar_t [28]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(353): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(355): error C2440: '=': cannot convert from 'const wchar_t [27]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(355): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(357): error C2440: '=': cannot convert from 'const wchar_t [27]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(357): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(359): error C2440: '=': cannot convert from 'const wchar_t [34]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(359): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(361): error C2440: '=': cannot convert from 'const wchar_t [31]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(361): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(363): error C2440: '=': cannot convert from 'const wchar_t [31]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(363): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(365): error C2440: '=': cannot convert from 'const wchar_t [30]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(365): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(367): error C2440: '=': cannot convert from 'const wchar_t [31]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(367): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(369): error C2440: '=': cannot convert from 'const wchar_t [30]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(369): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(371): error C2440: '=': cannot convert from 'const wchar_t [28]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(371): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(373): error C2440: '=': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(373): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(375): error C2440: '=': cannot convert from 'const wchar_t [24]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(375): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(377): error C2440: '=': cannot convert from 'const wchar_t [24]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(377): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(379): error C2440: '=': cannot convert from 'const wchar_t [30]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(379): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(381): error C2440: '=': cannot convert from 'const wchar_t [33]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(381): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(383): error C2440: '=': cannot convert from 'const wchar_t [37]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(383): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(385): error C2440: '=': cannot convert from 'const wchar_t [36]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(385): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(387): error C2440: '=': cannot convert from 'const wchar_t [33]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(387): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(389): error C2440: '=': cannot convert from 'const wchar_t [30]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(389): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(391): error C2440: '=': cannot convert from 'const wchar_t [29]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(391): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(393): error C2440: '=': cannot convert from 'const wchar_t [28]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(393): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(395): error C2440: '=': cannot convert from 'const wchar_t [30]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(395): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(397): error C2440: '=': cannot convert from 'const wchar_t [27]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(397): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(399): error C2440: '=': cannot convert from 'const wchar_t [32]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(399): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(401): error C2440: '=': cannot convert from 'const wchar_t [26]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(401): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(403): error C2440: '=': cannot convert from 'const wchar_t [27]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(403): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(405): error C2440: '=': cannot convert from 'const wchar_t [26]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(405): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(407): error C2440: '=': cannot convert from 'const wchar_t [28]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(407): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(409): error C2440: '=': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(409): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(411): error C2440: '=': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(411): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(413): error C2440: '=': cannot convert from 'const wchar_t [24]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(413): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(415): error C2440: '=': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(415): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(417): error C2440: '=': cannot convert from 'const wchar_t [24]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(417): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(419): error C2440: '=': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(419): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(421): error C2440: '=': cannot convert from 'const wchar_t [22]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(421): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(423): error C2440: '=': cannot convert from 'const wchar_t [22]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(423): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(425): error C2440: '=': cannot convert from 'const wchar_t [21]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(425): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(427): error C2440: '=': cannot convert from 'const wchar_t [21]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(427): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(429): error C2440: '=': cannot convert from 'const wchar_t [27]' to 'WCHAR *'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\core\dxutmisc.cpp(429): fatal error C1003: error count exceeds 100; stopping compilation
+  DXUTcamera.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  DXUTgui.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  DXUTguiIME.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutguiime.cpp(902): error C2440: 'initializing': cannot convert from 'const wchar_t *' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutguiime.cpp(902): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  DXUTres.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  DXUTsettingsdlg.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2710): error C2440: 'return': cannot convert from 'const wchar_t [11]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2710): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2712): error C2440: 'return': cannot convert from 'const wchar_t [12]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2712): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2714): error C2440: 'return': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2714): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2727): error C2440: 'return': cannot convert from 'const wchar_t [15]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2727): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2729): error C2440: 'return': cannot convert from 'const wchar_t [14]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2729): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2731): error C2440: 'return': cannot convert from 'const wchar_t [15]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2731): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2733): error C2440: 'return': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2733): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2748): error C2440: 'return': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2748): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2750): error C2440: 'return': cannot convert from 'const wchar_t [26]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2750): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2752): error C2440: 'return': cannot convert from 'const wchar_t [21]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2752): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2754): error C2440: 'return': cannot convert from 'const wchar_t [21]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2754): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2756): error C2440: 'return': cannot convert from 'const wchar_t [16]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2756): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2769): error C2440: 'return': cannot convert from 'const wchar_t [20]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2769): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2771): error C2440: 'return': cannot convert from 'const wchar_t [27]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2771): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2773): error C2440: 'return': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2773): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2775): error C2440: 'return': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2775): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2777): error C2440: 'return': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2777): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2779): error C2440: 'return': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2779): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2781): error C2440: 'return': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2781): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2783): error C2440: 'return': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2783): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2785): error C2440: 'return': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2785): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2787): error C2440: 'return': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2787): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2789): error C2440: 'return': cannot convert from 'const wchar_t [26]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2789): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2791): error C2440: 'return': cannot convert from 'const wchar_t [26]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2791): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2793): error C2440: 'return': cannot convert from 'const wchar_t [26]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2793): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2795): error C2440: 'return': cannot convert from 'const wchar_t [26]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2795): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2797): error C2440: 'return': cannot convert from 'const wchar_t [26]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2797): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2799): error C2440: 'return': cannot convert from 'const wchar_t [26]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2799): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2801): error C2440: 'return': cannot convert from 'const wchar_t [26]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2801): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2803): error C2440: 'return': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2803): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2816): error C2440: 'return': cannot convert from 'const wchar_t [27]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2816): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2818): error C2440: 'return': cannot convert from 'const wchar_t [24]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2818): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2820): error C2440: 'return': cannot convert from 'const wchar_t [27]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2820): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2822): error C2440: 'return': cannot convert from 'const wchar_t [32]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2822): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2824): error C2440: 'return': cannot convert from 'const wchar_t [31]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2824): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2837): error C2440: 'return': cannot convert from 'const wchar_t [30]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2837): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2839): error C2440: 'return': cannot convert from 'const wchar_t [28]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2839): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2841): error C2440: 'return': cannot convert from 'const wchar_t [24]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2841): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2843): error C2440: 'return': cannot convert from 'const wchar_t [24]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2843): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2845): error C2440: 'return': cannot convert from 'const wchar_t [26]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2845): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2847): error C2440: 'return': cannot convert from 'const wchar_t [25]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2847): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2849): error C2440: 'return': cannot convert from 'const wchar_t [24]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\dxutsettingsdlg.cpp(2849): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  ImeUi.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\imeui.cpp(306): error C2440: 'initializing': cannot convert from 'const wchar_t [2]' to 'LPTSTR'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\imeui.cpp(306): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\imeui.cpp(1725): warning C4302: 'type cast': truncation from 'LPCANDIDATELIST' to 'DWORD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\imeui.cpp(1759): warning C4302: 'type cast': truncation from 'LPCANDIDATELIST' to 'DWORD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\imeui.cpp(1989): error C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: see declaration of 'GetVersionExA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\imeui.cpp(2199): warning C4302: 'type cast': truncation from 'HKL' to 'DWORD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\imeui.cpp(2607): error C2664: 'BOOL ImmSetCompositionStringW(HIMC,DWORD,LPVOID,DWORD,LPVOID,DWORD)': cannot convert argument 3 from 'const wchar_t [1]' to 'LPVOID'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\imeui.cpp(2607): note: Conversion loses qualifiers
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\imeui.cpp(2689): warning C4302: 'type cast': truncation from 'HKL' to 'DWORD'
+  SDKmesh.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(590): error C2362: initialization of 'tris' is skipped by 'goto Error'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(503): note: see declaration of 'tris'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(590): note: see declaration of 'Error'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(590): error C2362: initialization of 'currentMesh' is skipped by 'goto Error'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(502): note: see declaration of 'currentMesh'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(590): note: see declaration of 'Error'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(590): error C2362: initialization of 'pSubset' is skipped by 'goto Error'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(498): note: see declaration of 'pSubset'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(590): note: see declaration of 'Error'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(590): error C2362: initialization of 'BufferDataStart' is skipped by 'goto Error'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(447): note: see declaration of 'BufferDataStart'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(590): note: see declaration of 'Error'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(590): error C2362: initialization of 'pBufferData' is skipped by 'goto Error'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(444): note: see declaration of 'pBufferData'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(590): note: see declaration of 'Error'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(1088): error C2362: initialization of 'BaseOffset' is skipped by 'goto Error'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(1074): note: see declaration of 'BaseOffset'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmesh.cpp(1088): note: see declaration of 'Error'
+  SDKmisc.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(149): warning C4477: 'swprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'LPARAM'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(149): note: consider using '%lld' in the format string
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(149): note: consider using '%Id' in the format string
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(149): note: consider using '%I64d' in the format string
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(149): warning C4477: 'swprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'LPARAM'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(149): note: consider using '%lld' in the format string
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(149): note: consider using '%Id' in the format string
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(149): note: consider using '%I64d' in the format string
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(290): error C2664: 'bool DXUTFindMediaSearchParentDirs(WCHAR *,int,WCHAR *,WCHAR *)': cannot convert argument 3 from 'const wchar_t [2]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(290): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(301): error C2664: 'bool DXUTFindMediaSearchParentDirs(WCHAR *,int,WCHAR *,WCHAR *)': cannot convert argument 3 from 'const wchar_t [2]' to 'WCHAR *'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\samples\c++\dxut11\optional\sdkmisc.cpp(301): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  SDKsound.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  SDKwavefile.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  DeferredShadingDemo.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  Generating Code...
