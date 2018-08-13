@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{e0bcf257-6ae8-4597-bcec-edf10a46dfcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{df9c351a-45b9-4023-b249-c42cc3a29cbd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DeferredShadingDemo.cpp" />
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\DXUTguiIME.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\ImeUi.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\SDKsound.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\SDKwavefile.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Core\DXUTDevice9.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Core\DXUTDevice11.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="LightManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\directx.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\DXUTguiIME.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\DXUTLockFreePipe.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\ImeUi.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\SDKsound.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\SDKwavefile.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Core\DXUTDevice9.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Core\DXUTDevice11.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h" />
+    <ClInclude Include="LightManager.h" />
+    <ClInclude Include="GBuffer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DeferredShading.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
