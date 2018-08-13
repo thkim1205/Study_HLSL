@@ -43,7 +43,7 @@ CSceneManager g_SceneManager;
 CLightManager g_LightManager;
 CGBuffer	  g_GBuffer;
 
-
+// Test
 
 
 

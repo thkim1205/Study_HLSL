@@ -85,6 +85,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Samples\C++\DXUT11\Core;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Samples\C++\DXUT\Optional;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Samples\C++\DXUT\Core;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Samples\C++\DXUT11\Optional;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalDependencies>d3dcompiler.lib;d3dx11d.lib;d3dx9d.lib;DxErr.lib;dxguid.lib;winmm.lib;comctl32.lib;legacy_stdio_definitions.lib;%(AdditionalDependencies)</AdditionalDependencies>
@@ -146,6 +147,7 @@
     <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\SDKsound.cpp" />
     <ClCompile Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\SDKwavefile.cpp" />
     <ClCompile Include="DeferredShadingDemo.cpp" />
+    <ClCompile Include="GBuffer.cpp" />
     <ClCompile Include="LightManager.cpp" />
   </ItemGroup>
   <ItemGroup>

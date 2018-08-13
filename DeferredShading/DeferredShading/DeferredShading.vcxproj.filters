@@ -57,6 +57,7 @@
       <Filter>DXUT</Filter>
     </ClCompile>
     <ClCompile Include="LightManager.cpp" />
+    <ClCompile Include="GBuffer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT11\Optional\directx.ico">
