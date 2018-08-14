@@ -34,22 +34,22 @@ HRESULT CGBuffer::Init(UINT width, UINT height)
 	Deinit();		// Clear the previous targets
 
 	// Texture formats
-	static const DXGI_FORMAT depthStencilTextureFormat = DXGI_FORMAT_R24G8_TYPELESS;
-	static const DXGI_FORMAT basicColorTextureFormat   = DXGI_FORMAT_R8G8B8A8_UNORM;
-	static const DXGI_FORMAT normalTextureFormat       = DXGI_FORMAT_R11G11B10_FLOAT;
-	static const DXGI_FORMAT specPowerTextureFormat    = DXGI_FORMAT_R8G8B8A8_UNORM;
+	static const DXGI_FORMAT depthStencilRTFormat       = DXGI_FORMAT_R24G8_TYPELESS;
+	static const DXGI_FORMAT colorSpecIntensityRTFormat = DXGI_FORMAT_R8G8B8A8_UNORM;
+	static const DXGI_FORMAT normalRTFormat    = DXGI_FORMAT_R11G11B10_FLOAT;
+	static const DXGI_FORMAT specPowerRTFormat = DXGI_FORMAT_R8G8B8A8_UNORM;
 
 	// Render view formats
-	static const DXGI_FORMAT depthStencilRenderViewFormat    = DXGI_FORMAT_D24_UNORM_S8_UINT;
-	static const DXGI_FORMAT basicColorRenderViewFormat      = DXGI_FORMAT_R8G8B8A8_UNORM;
-	static const DXGI_FORMAT normalRenderViewFormat          = DXGI_FORMAT_R11G11B10_FLOAT;
-	static const DXGI_FORMAT specPowerRenderViewFormat       = DXGI_FORMAT_R8G8B8A8_UNORM;
+	static const DXGI_FORMAT depthStencilViewFormat         = DXGI_FORMAT_D24_UNORM_S8_UINT;
+	static const DXGI_FORMAT colorSpecIntensityRTViewFormat = DXGI_FORMAT_R8G8B8A8_UNORM;
+	static const DXGI_FORMAT normalRTViewFormat             = DXGI_FORMAT_R11G11B10_FLOAT;
+	static const DXGI_FORMAT specPowerRTViewFormat          = DXGI_FORMAT_R8G8B8A8_UNORM;
 
 	// Resource view formats
-	static const DXGI_FORMAT depthStencilResourceViewFormat = DXGI_FORMAT_R24_UNORM_X8_TYPELESS;
-	static const DXGI_FORMAT basicColorResourceViewFormat   = DXGI_FORMAT_R8G8B8A8_UNORM;
-	static const DXGI_FORMAT normalResourceViewFormat       = DXGI_FORMAT_R11G11B10_FLOAT;
-	static const DXGI_FORMAT specPowerResourceViewFormat    = DXGI_FORMAT_R8G8B8A8_UNORM;
+	static const DXGI_FORMAT depthStencilResourceViewFormat       = DXGI_FORMAT_R24_UNORM_X8_TYPELESS;
+	static const DXGI_FORMAT colorSpecIntensityResourceViewFormat = DXGI_FORMAT_R8G8B8A8_UNORM;
+	static const DXGI_FORMAT normalResourceViewFormat             = DXGI_FORMAT_R11G11B10_FLOAT;
+	static const DXGI_FORMAT specPowerResourceViewFormat          = DXGI_FORMAT_R8G8B8A8_UNORM;
 
 	// Allocate the depth stencil target
 	D3D11_TEXTURE2D_DESC dtd =
@@ -66,7 +66,7 @@ HRESULT CGBuffer::Init(UINT width, UINT height)
 		0		// UINT MiscFlags;
 	};
 
-	dtd.Format = depthStencilTextureFormat;
+	dtd.Format = depthStencilRTFormat;
 	V_RETURN( g_pD3D11Device->CreateTexture2D( &dtd, 
 											   NULL, 
 											   &m_pDepthStencilRT ) );
@@ -74,11 +74,47 @@ HRESULT CGBuffer::Init(UINT width, UINT height)
 
 	// Allocate the base color with specular intensity target
 	dtd.BindFlags = D3D11_BIND_RENDER_TARGET | D3D11_BIND_SHADER_RESOURCE;
-	dtd.Format    = basicColorTextureFormat;
+	dtd.Format    = colorSpecIntensityRTFormat;
 	V_RETURN( g_pD3D11Device->CreateTexture2D( &dtd,
 											   NULL,
 											   &m_pColorSpecIntensityRT ) );
-	DXUT_SetDebugName( m_pColorSpecIntensityRT, "GBUFFER - Base Color Specular Intensity" );
+	DXUT_SetDebugName( m_pColorSpecIntensityRT, "GBuffer - Base Color Specular Intensity" );
+
+	// Allocate the normal target
+	dtd.Format = normalRTFormat;
+	V_RETURN( g_pD3D11Device->CreateTexture2D( &dtd,
+											   NULL,
+											   &m_pNormalRT ) );
+	DXUT_SetDebugName( m_pNormalRT, "GBuffer - Normal" );
+
+	// Allocate the specular power target
+	dtd.Format = specPowerRTFormat;
+	V_RETURN( g_pD3D11Device->CreateTexture2D( &dtd,
+											   NULL,
+											   &m_pSpecPowerRT ) );
+	DXUT_SetDebugName(m_pSpecPowerRT, "GBuffer - Specular Power");
+
+	// Create the render target views
+	// 1. Depth-Stencil target view
+	// 2. Render target view
+	D3D11_DEPTH_STENCIL_VIEW_DESC dsvd =
+	{
+		depthStencilViewFormat,
+		D3D11_DSV_DIMENSION_TEXTURE2D
+	};
+	V_RETURN(g_pD3D11Device->CreateDepthStencilView(m_pDepthStencilRT, &dsvd, &m_pDepthStencilDSV));
+	DXUT_SetDebugName(m_pDepthStencilDSV, "GBuffer - Depth Stencil DSV");
+
+	D3D11_RENDER_TARGET_VIEW_DESC rtvd =
+	{
+		colorSpecIntensityRTViewFormat,
+		D3D11_RTV_DIMENSION_TEXTURE2D
+	};
+	V_RETURN(g_pD3D11Device->CreateRenderTargetView(m_pColorSpecIntensityRT, &rtvd, &m_pColorSpecIntensityRTV));
+	DXUT_SetDebugName(m_pColorSpecIntensityRTV, "GBuffer - Color Spec Intensity RTV");
+
+
+
 
 }
 
